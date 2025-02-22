@@ -146,4 +146,8 @@ Equipment Request (New hardware/software requests).
 
 By setting up these features, osTicket ensures tickets are properly categorized, assigned, and resolved efficiently.
 
+![Screenshot 2025-02-16 183604](https://github.com/user-attachments/assets/2471e2f2-47f4-4a83-972c-00c3b2d1f30d)
+
+
+
 ---
