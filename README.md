@@ -31,16 +31,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
-1. Understanding the Admin Panel
+Understanding the Admin Panel
 Location: http://localhost/osTicket/scp/login.php
 Purpose: The Admin Panel is where you configure settings, roles, permissions, and workflow for the helpdesk system.
 
+---
 
-3. Configuring Agent Roles & Permissions
+1. Configuring Agent Roles & Permissions
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Location: Admin Panel → Agents → Roles
 Purpose:
 Roles define what agents can and cannot do in the system.
@@ -48,8 +49,12 @@ Example:
 Supreme Admin – Has full access to manage everything.
 Support Agent – Can only view and respond to tickets.
 
+---
 
-4. Setting Up Departments (Ticket Visibility & Work Distribution)
+2. Setting Up Departments (Ticket Visibility & Work Distribution)
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Location: Admin Panel → Agents → Departments
 Purpose:
 Departments determine who can see and work on certain tickets.
@@ -57,15 +62,24 @@ Example:
 SysAdmins: Handles server and network issues.
 Help Desk: Manages general IT support requests.
 
+---
 
-6. Creating Teams for Cross-Department Work
+3. Creating Teams for Cross-Department Work
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Location: Admin Panel → Agents → Teams
 Purpose:
 Teams allow agents from different departments to work on specific tasks together.
 Example:
 Online Banking Team – Includes agents from Networking & SysAdmins to handle online banking-related issues.
 
-8. Controlling Who Can Submit Tickets
+---
+
+4. Controlling Who Can Submit Tickets
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Location: Admin Panel → Settings → User Settings
 Purpose:
 Define who can create tickets and whether users must be registered.
@@ -73,7 +87,12 @@ Options:
 Allow Anyone to Submit Tickets – No login required.
 Require Registration – Users must register before creating a ticket.
 
-10. Adding & Managing Agents (Support Workers)
+---
+
+5. Adding & Managing Agents (Support Workers)
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Location: Admin Panel → Agents → Add New
 Purpose:
 Assign agents to specific departments and roles.
@@ -81,7 +100,12 @@ Example:
 Jane (Assigned to SysAdmins)
 John (Assigned to Support)
 
-12. Setting Up Service Level Agreements (SLAs)
+---
+
+6. Setting Up Service Level Agreements (SLAs)
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Location: Admin Panel → Manage → SLA
 Purpose:
 SLAs define how quickly tickets must be resolved based on severity.
@@ -90,7 +114,12 @@ Sev-A (Critical) – Response within 1 hour (24/7).
 Sev-B (High) – Response within 4 hours (24/7).
 Sev-C (Low) – Response within 8 hours (Business Hours).
 
-14. Configuring Help Topics for Ticket Categorization
+---
+
+7. Configuring Help Topics for Ticket Categorization
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Location: Admin Panel → Manage → Help Topics
 Purpose:
 Help Topics classify tickets so they go to the right department.
@@ -99,20 +128,9 @@ Business Critical Outage (Urgent company-wide issues).
 Password Reset (User login problems).
 Equipment Request (New hardware/software requests).
 
+---
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 
 By setting up these features, osTicket ensures tickets are properly categorized, assigned, and resolved efficiently.
+
+---
