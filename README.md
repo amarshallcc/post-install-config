@@ -128,6 +128,8 @@ Sev-C (Low) – Response within 8 hours (Business Hours).
 7. Configuring Help Topics for Ticket Categorization
 <p>
   
+
+ 
 ![image](https://github.com/user-attachments/assets/87de9b99-c488-4a5c-b458-4e5b9b8b59ee)
 
 </p>
