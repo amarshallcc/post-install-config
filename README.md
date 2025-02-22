@@ -40,7 +40,9 @@ Purpose: The Admin Panel is where you configure settings, roles, permissions, an
 
 1. Configuring Agent Roles & Permissions
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/82bbf76d-5cb4-4dc0-b17d-c1827f7995d4)
+  
 </p>
 Location: Admin Panel → Agents → Roles
 Purpose:
@@ -104,7 +106,14 @@ John (Assigned to Support)
 
 6. Setting Up Service Level Agreements (SLAs)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/33a42fe7-8240-41ee-980f-4af152a4db07)
+
+![image](https://github.com/user-attachments/assets/476b8e6e-c536-44e3-8cba-eef2e3d8cd08)
+
+![image](https://github.com/user-attachments/assets/d41e5ab7-c864-40e7-9329-857ddc960021)
+
+
 </p>
 Location: Admin Panel → Manage → SLA
 Purpose:
@@ -118,7 +127,9 @@ Sev-C (Low) – Response within 8 hours (Business Hours).
 
 7. Configuring Help Topics for Ticket Categorization
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/87de9b99-c488-4a5c-b458-4e5b9b8b59ee)
+
 </p>
 Location: Admin Panel → Manage → Help Topics
 Purpose:
