@@ -51,6 +51,8 @@ Supreme Admin – Has full access to manage everything.
 
 Support Agent – Can only view and respond to tickets.
 
+
+
 ---
 
 2. Setting Up Departments (Ticket Visibility & Work Distribution)
@@ -73,8 +75,6 @@ Help Desk: Manages general IT support requests.
 
 3. Creating Teams for Cross-Department Work
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 Location: Admin Panel → Agents → Teams
 Purpose:
 Teams allow agents from different departments to work on specific tasks together.
@@ -87,7 +87,9 @@ Online Banking Team – Includes agents from Networking & SysAdmins to handle on
 
 4. Controlling Who Can Submit Tickets
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/7c41a571-3fea-418f-9688-dc54bd475fb1)
+
 </p>
 Location: Admin Panel → Settings → User Settings
 Purpose:
@@ -100,7 +102,11 @@ Require Registration – Users must register before creating a ticket.
 
 5. Adding & Managing Agents (Support Workers)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/1b73822a-0b59-4f0c-b15f-baaa47f823cc)
+
+![image](https://github.com/user-attachments/assets/c34c7e1d-de70-4498-ad30-0806d8871423)
+
 </p>
 Location: Admin Panel → Agents → Add New
 Purpose:
@@ -151,7 +157,6 @@ Equipment Request (New hardware/software requests).
 ![image](https://github.com/user-attachments/assets/a1561f40-8f4c-4fdc-b6cf-0c0aa4bf9cbd)
 
 ---
-
 
 By setting up these features, osTicket ensures tickets are properly categorized, assigned, and resolved efficiently.
 
