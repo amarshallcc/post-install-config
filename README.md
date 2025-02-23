@@ -44,13 +44,20 @@ Purpose:
 Roles define what agents can and cannot do in the system.
 Example:
 Supreme Admin – Has full access to manage everything.
+
+![image](https://github.com/user-attachments/assets/6b876b37-dfcd-490c-9981-24c98e2b3e11)
+
+![image](https://github.com/user-attachments/assets/766562f5-44e0-4fa8-a682-2e9c61064f54)
+
 Support Agent – Can only view and respond to tickets.
 
 ---
 
 2. Setting Up Departments (Ticket Visibility & Work Distribution)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/1f1aefee-316f-4f13-a13c-3f083a10ba23)
+
 </p>
 Location: Admin Panel → Agents → Departments
 Purpose:
@@ -58,6 +65,9 @@ Departments determine who can see and work on certain tickets.
 Example:
 SysAdmins: Handles server and network issues.
 Help Desk: Manages general IT support requests.
+
+![image](https://github.com/user-attachments/assets/cdbbbaf1-e1d7-41eb-aae8-1f93dcd68c13)
+
 
 ---
 
@@ -70,6 +80,8 @@ Purpose:
 Teams allow agents from different departments to work on specific tasks together.
 Example:
 Online Banking Team – Includes agents from Networking & SysAdmins to handle online banking-related issues.
+
+![image](https://github.com/user-attachments/assets/90a5b7ad-4749-49d3-9c4a-c563dfacae5a)
 
 ---
 
@@ -135,6 +147,8 @@ Example:
 Business Critical Outage (Urgent company-wide issues).
 Password Reset (User login problems).
 Equipment Request (New hardware/software requests).
+
+![image](https://github.com/user-attachments/assets/a1561f40-8f4c-4fdc-b6cf-0c0aa4bf9cbd)
 
 ---
 
